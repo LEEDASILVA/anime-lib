@@ -19,7 +19,6 @@
   "homepage": "https://github.com/LEEDASILVA/anime-lib#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.11",
-    "crypto-js": "^4.1.1",
     "node-fetch": "^3.2.4"
   }
 }
